@@ -1,0 +1,12 @@
+.maindiv
+{
+  height: 620px;
+}
+.mainp
+{
+  padding: 300px 0px;
+  text-align: center;
+  color: rgb(33, 87, 154);
+  font-size: 30px;
+  font-weight: 400;
+}
